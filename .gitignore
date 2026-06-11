@@ -1,0 +1,16 @@
+# Playwright artifacts
+.playwright-cli/
+
+# Generated screenshots
+gameplay.png
+start-screen.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
